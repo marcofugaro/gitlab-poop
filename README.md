@@ -1,4 +1,5 @@
 #GitLab Poop
+
 Since GitLab has been a real piece of shit lately with all its performance issues, this extension makes it a literal piece of 💩!
 
 ## Installation
